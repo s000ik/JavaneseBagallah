@@ -1,0 +1,31 @@
+{
+  "name": "JavaneseBagallah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^13.3.1",
+    "discordjs-activity": "^1.4.0",
+    "erela.js": "^2.3.3",
+    "express": "^4.17.1",
+    "jsoning": "^0.12.22",
+    "lavasfy": "^2.3.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node": "^16.6.2",
+    "npm": "^8.3.0",
+    "pretty-ms": "^7.0.1",
+    "socket.io": "^4.4.0",
+    "winston": "^3.3.3"
+  }
+}
